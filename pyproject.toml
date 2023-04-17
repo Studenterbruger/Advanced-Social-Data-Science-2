@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "social-visualization"
+name = "Advanced Social Data"
 version = "0.1.0"
 description = ""
 authors = ["EsbenBL <53098504+EsbenBL@users.noreply.github.com>"]
