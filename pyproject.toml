@@ -28,6 +28,7 @@ bokeh = "2.4.2"
 sodapy = "^2.2.0"
 openpyxl = "^3.1.2"
 nltk = "^3.8.1"
+torch = "^2.0.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.22.0"
